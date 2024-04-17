@@ -23,7 +23,7 @@ export default function Form() {
       };
 
       const params = {
-        'api_token': 'lxH0VeqmUrnsOpYRB12yRdC5QU1JkiCEVnFchYX9sXjnd4Oa9gNJuibJRYKC',
+        'api_token': '',
       };
 
       const json_data = {
